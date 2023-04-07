@@ -1,0 +1,54 @@
+"ui.background" = { "bg" = "editorBackground", fg = "editorForeground" }
+"ui.selection" = "white"
+"ui.cursor" = { "bg" = "pink", "fg" = "editorBackground" }
+"ui.cursor.match" = { underline = { color = "pink", style = "line" } }
+"ui.linenr" = "#4C5669"
+"ui.linenr.selected" = "#C6C6C6"
+"ui.statusline" = { "bg" = "background", fg = "foreground" }
+"ui.cursorline.primary" = { "bg" = "#1B2536" }
+"ui.popup" = { "bg" = "#121926" }
+"ui.menu" = { "bg" = "#121926" }
+"info" = { "bg" = "#1E384D", fg = "#00B6E3" }
+"hint" = { bg = "#2E3030", fg = "#73C990" }
+"warning" = { "bg" = "#312D31", fg = "#FA973B" }
+"error" = { "bg" = "#322B3A", fg = "#FF6464" }
+"diagnostic" = { underline = { color = "#73C990", style = "curl" } }
+"diagnostic.info" = { underline = { color = "#358AEC" } }
+"diff.delta" = "yellow"
+"diff.plus" = "green"
+"diff.minus" = "red"
+
+"type" = "orange"
+"identifier" = "orange"
+"constant" = "yellow"
+"string" = "green"
+"comment" = { "fg" = "#64727D", modifiers = ["italic"] }
+"variable" = "pink"
+"keyword" = "purple"
+"function" = "blue"
+"function.builtin" = "turquoise"
+"function.macro" = "turquoise"
+"namespace" = "orange"
+"lifetime" = "purple"
+"tag" = "orange"
+"attribute" = "yellow"
+"constructor" = "orange"
+
+[palette]
+black = "#000000"
+white = "#FFFFFF"
+orange = "#F7987E"
+purple = "#B18BB1"
+pink = "#EA7599"
+yellow = "#EABE9A"
+green = "#97A38F"
+turquoise = "#7EA9A9"
+blue = "#6E94B9"
+brown = "#A67868"
+red = "#E05252"
+
+background = "#121926"
+foreground = "#99A4B8"
+editorBackground = "#17202F"
+editorForeground = "#C0C5CE"
+highlight = "#99BEFF"
