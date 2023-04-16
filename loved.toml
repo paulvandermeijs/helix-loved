@@ -1,5 +1,5 @@
 "ui.background" = { "bg" = "editorBackground", fg = "editorForeground" }
-"ui.selection" = "white"
+"ui.selection" = { "bg" = "#29364D" }
 "ui.cursor" = { "bg" = "pink", "fg" = "editorBackground" }
 "ui.cursor.match" = { underline = { color = "pink", style = "line" } }
 "ui.linenr" = "#4C5669"
