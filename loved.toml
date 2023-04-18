@@ -5,6 +5,9 @@
 "ui.linenr" = "#4C5669"
 "ui.linenr.selected" = "#C6C6C6"
 "ui.statusline" = { "bg" = "background", fg = "foreground" }
+"ui.statusline.normal" = { "fg" = "green" }
+"ui.statusline.insert" = { "fg" = "yellow" }
+"ui.statusline.select" = { "fg" = "blue" }
 "ui.cursorline.primary" = { "bg" = "#1B2536" }
 "ui.popup" = { "bg" = "#121926" }
 "ui.menu" = { "bg" = "#121926" }
