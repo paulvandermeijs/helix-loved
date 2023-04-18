@@ -11,6 +11,7 @@
 "ui.cursorline.primary" = { "bg" = "#1B2536" }
 "ui.popup" = { "bg" = "#121926" }
 "ui.menu" = { "bg" = "#121926" }
+"ui.menu.selected" = { "bg" = "#192333" }
 "info" = { "bg" = "#1E384D", fg = "#00B6E3" }
 "hint" = { bg = "#2E3030", fg = "#73C990" }
 "warning" = { "bg" = "#312D31", fg = "#FA973B" }
