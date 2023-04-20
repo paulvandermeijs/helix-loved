@@ -9,6 +9,7 @@
 "ui.statusline.insert" = { "fg" = "yellow" }
 "ui.statusline.select" = { "fg" = "blue" }
 "ui.cursorline.primary" = { "bg" = "#1B2536" }
+"ui.virtual.inlay-hint" = { "bg" = "#161E2D", "fg" = "#4C5567" }
 "ui.popup" = { "bg" = "#121926" }
 "ui.menu" = { "bg" = "#121926" }
 "ui.menu.selected" = { "bg" = "#192333" }
