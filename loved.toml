@@ -5,6 +5,7 @@
 "ui.linenr" = "#4C5669"
 "ui.linenr.selected" = "#C6C6C6"
 "ui.statusline" = { "bg" = "background", fg = "foreground" }
+"ui.statusline.inactive" = { "bg" = "background", "fg" = "#4c5567" }
 "ui.statusline.normal" = { "fg" = "green" }
 "ui.statusline.insert" = { "fg" = "yellow" }
 "ui.statusline.select" = { "fg" = "blue" }
