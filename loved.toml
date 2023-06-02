@@ -12,6 +12,8 @@
 "ui.cursorline.primary" = { "bg" = "#1B2536" }
 "ui.virtual.inlay-hint" = { "bg" = "#161E2D", "fg" = "#4C5567" }
 "ui.virtual.ruler" = { "bg" = "#161E2D" }
+"ui.virtual.indent-guide" = "#212A38"
+"ui.virtual.whitespace" = "#212A38"
 "ui.highlight" = { "bg" = "#1B2536" }
 "ui.popup" = { "bg" = "#121926" }
 "ui.menu" = { "bg" = "#121926" }
