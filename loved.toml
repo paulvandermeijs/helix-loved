@@ -1,9 +1,11 @@
-"ui.background" = { "bg" = "editorBackground", fg = "editorForeground" }
+"ui.background" = { "bg" = "editor-background", fg = "editor-foreground" }
 "ui.bufferline" = { "bg" = "background", fg = "#4c5567" }
-"ui.bufferline.active" = { "bg" = "editorBackground", "fg" = "foreground" }
+"ui.bufferline.active" = { "bg" = "editor-background", "fg" = "foreground" }
 "ui.selection" = { "bg" = "#29364D" }
-"ui.cursor" = { "bg" = "pink", "fg" = "editorBackground" }
+"ui.cursor" = { "bg" = "pink", "fg" = "editor-background" }
 "ui.cursor.match" = { underline = { color = "pink", style = "line" } }
+"ui.debug.breakpoint" = { fg = "bright-red" }
+"ui.debug.active" = { "fg" = "yellow" }
 "ui.linenr" = "#4C5669"
 "ui.linenr.selected" = "#C6C6C6"
 "ui.statusline" = { "bg" = "background", fg = "foreground" }
@@ -21,11 +23,11 @@
 "ui.menu" = { "bg" = "#121926" }
 "ui.menu.selected" = { "bg" = "#192333" }
 "ui.window" = "background"
-"info" = { "bg" = "#1E384D", fg = "#00B6E3" }
-"hint" = { bg = "#2E3030", fg = "#73C990" }
-"warning" = { "bg" = "#312D31", fg = "#FA973B" }
-"error" = { "bg" = "#322B3A", fg = "#FF6464" }
-"diagnostic" = { underline = { color = "#73C990", style = "curl" } }
+"info" = { "bg" = "bright-blue-bg", fg = "bright-blue" }
+"hint" = { bg = "bright-green-bg", fg = "bright-green" }
+"warning" = { "bg" = "bright-yellow-bg", fg = "bright-yellow" }
+"error" = { "bg" = "bright-red-bg", fg = "bright-red" }
+"diagnostic" = { underline = { color = "bright-green", style = "curl" } }
 "diagnostic.info" = { underline = { color = "#358AEC" } }
 "diff.delta" = "yellow"
 "diff.plus" = "green"
@@ -60,8 +62,17 @@ blue = "#6E94B9"
 brown = "#A67868"
 red = "#E05252"
 
+bright-blue = "#00B6E3"
+bright-blue-bg = "#1E384D"
+bright-green = "#73C990"
+bright-green-bg = "#2E3030"
+bright-yellow = "#FA973B"
+bright-yellow-bg = "#312D31"
+bright-red = "#FF6464"
+bright-red-bg = "#322B3A"
+
 background = "#121926"
 foreground = "#99A4B8"
-editorBackground = "#17202F"
-editorForeground = "#C0C5CE"
+editor-background = "#17202F"
+editor-foreground = "#C0C5CE"
 highlight = "#99BEFF"
