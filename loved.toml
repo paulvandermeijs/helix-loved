@@ -21,7 +21,7 @@
 "ui.highlight" = { "bg" = "#1B2536" }
 "ui.popup" = { "bg" = "#121926" }
 "ui.menu" = { "bg" = "#121926" }
-"ui.menu.selected" = { "bg" = "#192333" }
+"ui.menu.selected" = { "bg" = "#192333", "fg" = "white" }
 "ui.window" = "background"
 "info" = { "bg" = "bright-blue-bg", fg = "bright-blue" }
 "hint" = { bg = "bright-green-bg", fg = "bright-green" }
