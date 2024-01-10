@@ -1,11 +1,12 @@
 "ui.background" = { "bg" = "editor-background", fg = "editor-foreground" }
 "ui.bufferline" = { "bg" = "background", fg = "#4c5567" }
 "ui.bufferline.active" = { "bg" = "editor-background", "fg" = "foreground" }
+"ui.highlight.frameline" = { "bg" = "#2C331C" }
 "ui.selection" = { "bg" = "#29364D" }
 "ui.cursor" = { "bg" = "pink", "fg" = "editor-background" }
 "ui.cursor.match" = { underline = { color = "pink", style = "line" } }
 "ui.debug.breakpoint" = { fg = "bright-red" }
-"ui.debug.active" = { "fg" = "yellow" }
+"ui.debug.active" = { "fg" = "#F9D65B" }
 "ui.linenr" = "#4C5669"
 "ui.linenr.selected" = "#C6C6C6"
 "ui.statusline" = { "bg" = "background", fg = "foreground" }
