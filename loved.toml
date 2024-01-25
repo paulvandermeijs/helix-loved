@@ -36,6 +36,7 @@
 "diff.minus" = "red"
 
 "type" = "orange"
+"label" = "brown"
 "identifier" = "orange"
 "constant" = "yellow"
 "string" = "green"
@@ -46,7 +47,6 @@
 "function.builtin" = "turquoise"
 "function.macro" = "turquoise"
 "namespace" = "orange"
-"lifetime" = "purple"
 "tag" = "orange"
 "attribute" = "yellow"
 "constructor" = "orange"
