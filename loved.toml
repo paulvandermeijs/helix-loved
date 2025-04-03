@@ -44,6 +44,8 @@
 "markup.strikethrough" = { "bg" = "#161E2D", "fg" = "#4C5567" }
 "markup.quote" = { "fg" = "#64727D", modifiers = ["italic"] }
 "markup.link.url" = "blue"
+"markup.list" = "turquoise"
+"markup.raw.inline" = "bright-blue"
 
 "type" = "orange"
 "label" = "brown"
